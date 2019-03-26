@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.pythonPath": "/home/shehabk/anaconda3/envs/dl36_update/bin/python",
+    "python.jediEnabled": true,
+    	// Memory limit for the Jedi completion engine in megabytes. Zero (default) means 1024 MB. -1 means unlimited (disable memory limit check)
+	"python.jediMemoryLimit": -1,
+}
